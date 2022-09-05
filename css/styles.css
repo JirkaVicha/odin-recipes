@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    background-color: rgb(93, 93, 168);
+    color: #fff;
+    padding: 20px 20px;
+}
+
+p {
+    color: grey;
+}
+
+.container {
+    margin: 50px;
+    font-size: 35px;
+}
+
+.describing {
+    background-color: rgb(245, 189, 189);
+    padding: 10px 10px;
+    color: grey;
+    font-weight: 100;
+}
+
+a:visited {
+    color: rgb(230, 57, 57);
+}
+
+a:hover {
+    color: rgb(93, 93, 168);
+}
+
+.list {
+    color: rgb(41, 40, 40);
+    font-size: 1.5em;
+}
